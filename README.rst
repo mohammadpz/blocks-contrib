@@ -8,9 +8,10 @@ This repository is meant to be a starting point if you want to:
 
 * Learn to use Blocks by looking at implementations of simple models.
 * Find reference implementations of research performed using Blocks.
-* Use interfaces to datasets such as
-  [MNIST](https://github.com/bartvm/blocks-contrib/blob/master/blocks/contrib/datasets/mnist.py)
-  and the [One Billion Words dataset](https://github.com/bartvm/blocks-contrib/blob/master/blocks/contrib/datasets/billion.py).
+* Use interfaces to datasets such as MNIST_ and the `One Billion Words dataset`_.
+  
+.. _MNIST: https://github.com/bartvm/blocks-contrib/blob/master/blocks/contrib/datasets/mnist.py
+.. _One Billion Words dataset: https://github.com/bartvm/blocks-contrib/blob/master/blocks/contrib/datasets/billion.py
 
 Installation
 ------------
