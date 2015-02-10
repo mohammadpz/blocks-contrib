@@ -12,7 +12,8 @@ This repository is meant to be a starting point if you want to:
   [MNIST](https://github.com/bartvm/blocks-contrib/blob/master/blocks/contrib/datasets/mnist.py)
   and the [One Billion Words dataset](https://github.com/bartvm/blocks-contrib/blob/master/blocks/contrib/datasets/billion.py).
 
-## Installation
+Installation
+------------
 
 To start looking at the examples in this repository, clone it to a
 directory of your choice
